@@ -20,14 +20,9 @@ Welcome to **Pong-Game**, a classic browser-based Pong clone built using HTML, C
 
 ## 🧠 How to Play
 
-### Controls:
-- **Player 1 (Left Side):**  
-  `W` = up | `S` = down  
+### Controls:  
 - **AI (Right Side):**  
   Moves automatically based on the ball's position
-
-First player to reach **10 points** wins!
-
 ---
 
 ## 🤖 About the AI
@@ -38,19 +33,6 @@ The game includes a **simple paddle-tracking AI** that:
 - Stays within screen boundaries
 
 > Want to upgrade it? Try adding prediction, delays, or difficulty settings!
-
----
-
-## 🚀 Getting Started
-
-### Clone the project:
-```bash
-git clone https://github.com/code-p912/pong-game.git
-cd pong-game
-```
-
-### Run locally:
-Just open `index.html` in your browser — no installation needed.
 
 ---
 
